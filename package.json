@@ -2,6 +2,7 @@
 	"name": "fcc-learn-npm-package-json",
 	"author": "Mateusz Okulus",
 	"description": "NodeJS learning repo",
+	"keywords": ["freecodecamp", "fcc", "learning", "tutorial"],
 	"dependencies": {
 		"express": "^4.14.0"
 	},
